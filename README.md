@@ -1,9 +1,10 @@
 # Circle-Rush
 
-**Description**
+## Description
+
 Circle-Rush takes the excitement of traditional lap racing and adds a unique twist with its one-of-a-kind gameplay mechanics. In this fast-paced game, players navigate a circular track, completing laps while avoiding other cars. The simple yet challenging control system requires strategic clicking to keep the car moving and precise timing to come to a stop, adding an extra layer of intensity to the race.
 
-**Key Features**
+## Key Features
 
 1. **Dynamic Lap System**
    Experience the thrill of racing on a circular track with dynamically changing laps. The game keeps you on your toes as the laps evolve, introducing new challenges and obstacles to overcome.
